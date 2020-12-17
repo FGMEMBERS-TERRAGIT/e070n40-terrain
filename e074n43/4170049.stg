@@ -1,0 +1,8 @@
+OBJECT_BASE 4170049.btg
+OBJECT UAFM.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml 74.451314 43.058660 636.0 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml 74.503798 43.063943 624.8 0.00
+OBJECT_SHARED Models/Airport/beacon.xml 74.477138 43.063008 630.1 0.00
+OBJECT UCFM.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml 74.469108 43.059003 635.4 0.00
+OBJECT_SHARED Models/Airport/beacon.xml 74.477138 43.063008 630.2 0.00
